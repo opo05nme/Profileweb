@@ -1,0 +1,6 @@
+{
+  "name": "林若晴 Claire Lin | AI 內容策略與品牌企劃顧問",
+  "description": "林若晴的個人品牌網站。結合內容企劃、品牌行銷、教育科技與生成式 AI 應用，提供專業的 AI 內容策略諮詢、企業內訓課程與個人品牌打造。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
